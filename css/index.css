@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body,
 html {
@@ -13,13 +13,14 @@ html {
 }
 
 #about-me h1 {
-    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Press Start 2P', sans-serif;
 }
 
 #second-heading {
     font-family: monospace;
     font-size: 25px;
     display: flex;
+    overflow: auto;
     width: 25%;
     justify-content: center;
     align-items: center;
