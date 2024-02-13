@@ -30,3 +30,13 @@ theme:
     menu: true
     preview: true
     footer: true
+    
+  plugins:
+  - search
+  - mkdocs-nav-enhancements:
+      auto_numbering: false
+      auto_collapse: false
+      nav:
+      - Blog:
+          - Article 1: blog/components.md
+          - Article 2: blog/colors.md
