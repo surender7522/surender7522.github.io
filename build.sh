@@ -1,2 +1,5 @@
 mkdocs build --config-file src/mkdocs.yml
 cp -R src/site/* .
+git add .
+git commit -m "updated site"
+git push

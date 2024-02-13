@@ -1,6 +1,8 @@
 # Surender Singh Lamba
 
-![Profile Picture](assets/profile.jpeg)
+<div style="float: right;">
+    <img src="assets/profile.jpeg" alt="Profile Picture">
+</div>
 
 Hello 👋, World!  
 I'm a developer who enjoys building fun and unique software projects. While I wouldn't call myself a wizard, I do have a passion for technology and a knack for tinkering. I love exploring new ideas and pushing the boundaries of what's possible with code. I am sure you will love some of the work listed below, some of them have demo videos.
