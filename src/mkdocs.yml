@@ -1,0 +1,32 @@
+site_name: Surender Singh Lamba
+repo_name: surender7522/surender7522.github.io
+repo_url: https://github.com/surender7522/surender7522.github.io
+site_url: https://surender7522.github.io/
+copyright: Surender Singh Lamba
+
+nav:
+    - Home: index.md
+    - Getting Started: nav/getting-started.md
+    - Blog:
+      - blog/components.md
+      - blog/colors.md
+      - blog/fonts.md
+
+theme:
+  name: simple-blog
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  theme_style: light
+  site_name_style: normal
+  title_style: bold
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: true
+    menu: true
+    preview: true
+    footer: true
