@@ -1,6 +1,6 @@
 site_name: Surender Singh Lamba
 repo_name: surender7522/surender7522.github.io
-repo_url: https://github.com/surender7522/surender7522.github.io
+repo_url: https://github.com/surender7522
 site_url: https://surender7522.github.io/
 copyright: Surender Singh Lamba
 
@@ -14,8 +14,8 @@ nav:
 
 theme:
   name: simple-blog
-  favicon: assets/logo.png
-  logo: assets/logo.png
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
   theme_style: light
   site_name_style: normal
   title_style: bold
@@ -28,15 +28,5 @@ theme:
     site_name: true
     title: true
     menu: true
-    preview: true
-    footer: true
-    
-  plugins:
-  - search
-  - mkdocs-nav-enhancements:
-      auto_numbering: false
-      auto_collapse: false
-      nav:
-      - Blog:
-          - Article 1: blog/components.md
-          - Article 2: blog/colors.md
+    preview: false
+    footer: false
