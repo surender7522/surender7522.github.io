@@ -14,7 +14,7 @@ nav:
 
 theme:
   name: simple-blog
-  favicon: assets/favicon.ico
+  favicon: assets/logo.png
   logo: assets/logo.png
   theme_style: light
   site_name_style: normal
