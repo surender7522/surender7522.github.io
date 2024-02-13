@@ -6,7 +6,7 @@ copyright: Surender Singh Lamba
 
 nav:
     - Home: index.md
-    - Getting Started: nav/getting-started.md
+    - Json Tools: "https://jsontools.top"
     - Blog:
       - blog/components.md
       - blog/colors.md
