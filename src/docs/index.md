@@ -24,7 +24,6 @@ Current Work: Senior Software Engg, 5G Network Slicing, Rakuten Symphony
 - **[Function as a Service(FaaS) project](https://github.com/surender7522/IITBFaaS)**: FaaS framework created as part of a virtualization class project with scaling features on Docker Swarm.
 - **[AugmentedBOI](https://github.com/surender7522/augmentedBOI)**: Markerless Augmented Reality app for multimedia placement and virtual graffiti.
 - **[AirStore](https://github.com/surender7522/AirStore)**: A simple object store on your pc, implements Erasure Coding, GET, PUT, LIST APIs. Can emulate node crashes or data corruption on your pc.
-- **[Resource Inventory](https://github.com/surender7522/ResourceInventory)**: Automated creation of GraphDB from given set of YANG models enabling storage and queries.
 - **[CovidJab](https://github.com/surender7522/covidjab)**: Telegram chatbot which polls India's COWIN portal to notify when vaccine slots are available in your area, can subscribe or remove multiple locations.
 - **[LINE Home Assignment](https://github.com/surender7522/LineAssignment)**: A take-home assignment making changes to RedHat OpenStack's Nova platform to tinker with the lifecycle of VMs.
 - **[Infinite range RC car Backend](https://github.com/surender7522/planetrc-backend)**: Backend for RC car working over 4G network, with video transmission utilizing Twilio, Arduino, commodity phone.
